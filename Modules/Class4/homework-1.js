@@ -59,3 +59,13 @@ console.log(`\n${kTemp3}°K is equal to ${fTemp3}°F`);
 
 let cTemp3 = kTemp3 - 273.15
 console.log(`\n${kTemp3}°K is equal to ${cTemp3}°C`);
+
+/**
+ * 'Pages That you vIeW in tHIs WinDOw wont apPeAr in the broWSer history AND thEY wont LEaVE other TRACes';
+ * 
+ * Find the index of 'w' in the sentence (ignoring cases)
+ */
+
+let page = 'Pages That you vIeW in tHIs WinDOw wont apPeAr in the broWSer history AND thEY wont LEaVE other TRACes';
+
+page = page.indexOf('w')

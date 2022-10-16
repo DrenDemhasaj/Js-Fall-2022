@@ -61,3 +61,48 @@ i = case insensitive (if needed) only when replacing
  
  // (localeCompare, substring, slice, substr)
 //            Array (length, []-notation)
+
+
+
+
+
+
+
+/**
+ * 
+ * fubction intoString -> converts array into string with the comma',' sepperator
+ * function join() -> you can pick the seperator
+ * pop() -> to remove the last value from the array
+ * shift() -> to remove the first value from the array
+ * delete() to remove an index from any index but the function will replace the value with undefined
+ * push() to add value at the end of an array also returns the new length of array
+ * unshift -> to add to the front 
+ * splice -> is used to add value or to remove value
+ * 
+ * 
+ * 
+ * Array.isArray
+ * reverse()
+ * 
+ * 
+ * Conditional Code blocks (Conditional loop)
+ * 
+ * 
+ * 
+ * if block -> to give conditions
+ * else block -> last condition 
+ * else if -> if there is no more conditions after else 
+ *        Push Ups
+ * 15 + 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+

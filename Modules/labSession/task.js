@@ -6,12 +6,8 @@
  * 
  * 
  * 
-/**
  * 
- * Q3:
  * 
- * create two variables, one is to store studentScore, and another one to store maxScore
- * based on the student percentage, print the grade.
  * 
  * Grade-A : 91-100% 
  * Grade-B : 81-90.99% 

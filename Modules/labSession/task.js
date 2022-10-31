@@ -3,28 +3,9 @@
 /**
  * 
  * 
- * 
- * 
- * 
- * 
- * 
- * 
- * Grade-A : 91-100% 
- * Grade-B : 81-90.99% 
- * Grade-C : 71-80.99%
- * Grade-D : 61-70.99%
- * Grade-E : 51-60.99%
- * Grade-F : less than 51%
- * 
- * if the studentScore is invalid or more than maxScore, print "Invalid student score"
- * if student score and maxScore are valid, then print "Your percentage is XX.yy and your Grade is Z"
- * 
- * studentScore = 100
- * maxScore = 150
- * 
- * (studentScore/maxStore)*100
- * 
- */
+         * 
+         * 
+         */
  let studentScore = 112
  let maxScore = 150 
  let percentage = (studentScore / maxScore) * 100;
